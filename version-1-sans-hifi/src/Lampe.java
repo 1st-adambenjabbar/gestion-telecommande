@@ -34,7 +34,6 @@ public class Lampe {
 
     /**
      * Retourne une description lisible de l'état de la lampe.
-     * @return texte du type : "allumee lampe Lampe1 est allumee"
      */
     public String toString() {
         String r = "";
